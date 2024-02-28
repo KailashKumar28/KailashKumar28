@@ -25,14 +25,14 @@
 </h5>
  <p align= 'center'>
   
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare&left_color=lightseagreen&right_color=teal)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=KailashKumar28&left_color=lightseagreen&right_color=teal)
 [![Github](https://img.shields.io/github/followers/KailashKumar28?label=Followers&color=navy&labelColor=dodgerblue)](https://github.com/KailashKumar28)
 </p>
 <br/>
 <br/>
 <br/>
 
-<h3> const Connect = &nbsp; <a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<h3> const Connect = &nbsp; <a href = 'www.linkedin.com/in/kailashk28'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp; => <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
  
 <br/>
@@ -71,11 +71,11 @@
 
  <h1 > Stats </h1>
 
-<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=dracula)](https://github.com/VaibhavKhandare) -->
+<!-- [![Kailash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=dracula)](https://github.com/VaibhavKhandare) -->
 
-| ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=vue) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
+| ![Kailash's github stats](https://github-readme-stats.vercel.app/api?username=KailashKumar28&show_icons=true&theme=vue) | ![Kailash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KailashKumar28&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KailashKumar28&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=KailashKumar28&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
 <br>
 <br>
 <br>
