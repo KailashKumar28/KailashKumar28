@@ -18,7 +18,7 @@
  
  
  
- <h2> Its, Vaibhav Khandare <img src = "https://user-images.githubusercontent.com/56597655/167245731-9e66b0c6-48e0-469c-99d7-e9e00551b44f.png" width = 30px>
+ <h2> Its, Kailash Kumar <img src = "https://user-images.githubusercontent.com/56597655/167245731-9e66b0c6-48e0-469c-99d7-e9e00551b44f.png" width = 30px>
 
  </h2> 
  <h5>Hope you like the Profile :wink: See you soon.:innocent: !important
@@ -26,7 +26,7 @@
  <p align= 'center'>
   
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare&left_color=lightseagreen&right_color=teal)
-[![Github](https://img.shields.io/github/followers/VaibhavKhandare?label=Followers&color=navy&labelColor=dodgerblue)](https://github.com/VaibhavKhandare)
+[![Github](https://img.shields.io/github/followers/KailashKumar28?label=Followers&color=navy&labelColor=dodgerblue)](https://github.com/KailashKumar28)
 </p>
 <br/>
 <br/>
@@ -60,7 +60,7 @@
 
 <h1 > About Me 
  <h4>
-🔭 I’m Studying in IIT Gandhinagar and working as SDE in Gocomet.</h4>   <h4>
+🔭 I’m Studying in IIT Gandhinagar and working as SDE in Fincity.</h4>   <h4>
 🌱 I’m currently gaining knowledege of Next.js, Redux and Rails. </h4><h4>
 👯 I’m thriving to build good contacts and mutually learn from them. </h4><h4>
 💬 Can help you with Python, Data Science, MERN Stack, C++ </h4><h4>
@@ -75,7 +75,7 @@
 
 | ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=vue) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KailashKumar28&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
 <br>
 <br>
 <br>
