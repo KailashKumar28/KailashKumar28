@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Kailash%20Kumar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=60&descSize=18&v=2" width="100%" alt="Kailash Kumar - Backend & AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Kailash%20Kumar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20AI%20Engineer&descAlignY=60&descSize=18&v=3" width="100%" alt="Kailash Kumar - Backend and AI Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=Building+scalable+backends;Shipping+AI-powered+systems;Python+%7C+TypeScript+%7C+Node.js&v=2)](https://github.com/KailashKumar28)
 
@@ -42,11 +42,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KailashKumar28&show_icons=true&count_private=true&hide_border=true&theme=vue&title_color=26d0ce&icon_color=26d0ce&v=2" alt="Kailash's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashKumar28&layout=compact&hide_border=true&theme=vue&title_color=26d0ce&v=2" alt="Top languages" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashKumar28&bg_color=ffffff&color=1a2980&line=26d0ce&point=1a2980&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 
