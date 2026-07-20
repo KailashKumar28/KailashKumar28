@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Kailash%20Kumar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20AI%20Engineer&descAlignY=60&descSize=18&v=3" width="100%" alt="Kailash Kumar - Backend and AI Engineer" />
+# Kailash Kumar
+
+### Backend and AI Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=Building+scalable+backends;Shipping+AI-powered+systems;Python+%7C+TypeScript+%7C+Node.js&v=2)](https://github.com/KailashKumar28)
 
